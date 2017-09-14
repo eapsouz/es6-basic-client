@@ -1,5 +1,5 @@
 
-Basic es6 client
+Es6 basic client
 ================
 
 ## based on:
