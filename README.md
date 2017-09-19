@@ -11,7 +11,7 @@ My main javascript client for prototypes.
 
 A basic server I use to mock data
 
-```
+```bash
 cd server
 npm install
 npm start
